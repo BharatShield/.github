@@ -1,6 +1,6 @@
 # 🛡️ Bharat Shield V2
 
-![Bharat Shield Logo](./BharatShield%20.jpg)
+![Bharat Shield Logo](./BharatShield.png)
 
 **A Unified Command & Control Framework for National Digital Infrastructure**
 

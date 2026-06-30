@@ -1,0 +1,36 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Bharat Shield",
+  "colors": {
+    "primary": "#1E3A8A",
+    "light": "#3B82F6",
+    "dark": "#0F172A"
+  },
+  "topbarLinks": [
+    {
+      "name": "GitHub Organization",
+      "url": "https://github.com/BharatShield"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Core Specifications",
+      "pages": [
+        "profile/README",
+        "profile/SRS"
+      ]
+    },
+    {
+      "group": "System Modules (Drafts)",
+      "pages": [
+        "profile/uem_spec",
+        "profile/itsm_spec",
+        "profile/siem_spec",
+        "profile/mogoj_spec"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "github": "https://github.com/BharatShield"
+  }
+}

@@ -1,6 +1,6 @@
 # 🛡️ Bharat Shield V2
 
-![Bharat Shield Logo](https://raw.githubusercontent.com/BharatShield/.github/main/profile/BharatShield%20.png)
+![Bharat Shield Logo](https://raw.githubusercontent.com/BharatShield/.github/main/profile/BharatShield_640.png)
 
 **A Unified Command & Control Framework for National Digital Infrastructure**
 
